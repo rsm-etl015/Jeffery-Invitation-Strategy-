@@ -2,7 +2,7 @@
 1,Tennis,Weekday,Morning,0.5,0,Yes
 2,Pickleball,Weekday,Morning,0.5,0,No
 3,Shopping,Weekday,Morning,1,0,No
-4,Grocering ,Weekday,Morning,1,30,No
+4,Grocering,Weekday,Morning,1,30,No
 5,Shopping,Weekend,Afternoon,1,0,Yes
 6,Shopping,Weekend,Morning,1,0,Yes
 7,Shopping,Weekday,Afternoon,1,0,No
@@ -13,15 +13,15 @@
 12,VideoGame,Weekday,Night,0.2,0,No
 13,Shopping,Weekend,Afternoon,1,50,No
 14,VideoGame,Weekend,Night,0.2,,Yes
-15,Grocering ,Weekend,Afternoon,1,30,No
-16,Grocering ,Weekend,Morning,1,30,Yes
+15,Grocering,Weekend,Afternoon,1,30,No
+16,Grocering,Weekend,Morning,1,30,Yes
 17,VideoGame,Weekday,Night,0.2,0,No
 18,Tennis,Weekend,Afternoon,0.5,0,Yes
 19,Tennis,Weekend,Afternoon,0.5,0,Yes
 20,Tennis,Weekend,Night,0.5,0,No
 21,VideoGame,Weekday,Afternoon,0.2,0,No
-22,Grocering ,Weekend,Afternoon,1,30,No
-23,Grocering ,Weekend,Morning,1,30,Yes
+22,Grocering,Weekend,Afternoon,1,30,No
+23,Grocering,Weekend,Morning,1,30,Yes
 24,VideoGame,Weekend,Night,0.2,0,Yes
 25,StayHome,Weekday,Afternoon,0,0,Yes
 26,Tennis,Weekday,Morning,0.5,0,Yes
@@ -42,8 +42,8 @@
 41,Pickleball,Weekday,Afternoon,0.5,0,No
 42,VideoGame,Weekend,Night,0.2,0,Yes
 43,StayHome,Weekday,Afternoon,0,0,Yes
-44,Grocering ,Weekday,Morning,1,0,No
-45,Grocering ,Weekday,Morning,1,30,No
+44,Grocering,Weekday,Morning,1,0,No
+45,Grocering,Weekday,Morning,1,30,No
 46,Grocering,Weekend,Afternoon,3,0,No
 47,Tennis,Weekday,Afternoon,0.5,0,Yes
 48,Tennis,Weekday,Afternoon,2,0,No
@@ -52,7 +52,7 @@
 51,Tennis,Weekend,Afternoon,2,0,No
 52,Tennis,Weekend,Morning,0.5,0,Yes
 53,StayHome,Weekend,Morning,0,0,Yes
-54,VideoGame,Weekend,Night,0.2,,Yes
+54,VideoGame,Weekend,Night,0.2,0,Yes
 55,StayHome,Weekday,Afternoon,0,0,Yes
 56,Shopping,Weekend,Night,1,0,No
 57,Shopping,Weekend,Morning,1,20,Yes
